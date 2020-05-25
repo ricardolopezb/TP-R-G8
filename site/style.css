@@ -1,0 +1,17 @@
+h1 {
+	color:black;
+	text-align:center;
+	
+}
+
+body {
+	background-color:yellow;
+	font-family: Impact, sans-serif;
+	font-size:24px;
+}
+
+div li:hover{
+	background-color: black;
+	color:yellow;
+	width: 150px;
+}

@@ -9,8 +9,11 @@ body {
 	font-family: Impact, sans-serif;
 	font-size:24px;
 }
-
-div li:hover{
+a{
+	color:black;
+	text-decoration:none;
+}
+div li:hover, a:hover{
 	background-color: black;
 	color:yellow;
 	width: 150px;
